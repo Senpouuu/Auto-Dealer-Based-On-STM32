@@ -1,0 +1,31 @@
+.\objects\lux.o: Hardware\LUX.c
+.\objects\lux.o: .\Start\stm32f10x.h
+.\objects\lux.o: .\Start\core_cm3.h
+.\objects\lux.o: E:\Keli 5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lux.o: .\Start\system_stm32f10x.h
+.\objects\lux.o: .\User\stm32f10x_conf.h
+.\objects\lux.o: .\Library\stm32f10x_adc.h
+.\objects\lux.o: .\Start\stm32f10x.h
+.\objects\lux.o: .\Library\stm32f10x_bkp.h
+.\objects\lux.o: .\Library\stm32f10x_can.h
+.\objects\lux.o: .\Library\stm32f10x_cec.h
+.\objects\lux.o: .\Library\stm32f10x_crc.h
+.\objects\lux.o: .\Library\stm32f10x_dac.h
+.\objects\lux.o: .\Library\stm32f10x_dbgmcu.h
+.\objects\lux.o: .\Library\stm32f10x_dma.h
+.\objects\lux.o: .\Library\stm32f10x_exti.h
+.\objects\lux.o: .\Library\stm32f10x_flash.h
+.\objects\lux.o: .\Library\stm32f10x_fsmc.h
+.\objects\lux.o: .\Library\stm32f10x_gpio.h
+.\objects\lux.o: .\Library\stm32f10x_i2c.h
+.\objects\lux.o: .\Library\stm32f10x_iwdg.h
+.\objects\lux.o: .\Library\stm32f10x_pwr.h
+.\objects\lux.o: .\Library\stm32f10x_rcc.h
+.\objects\lux.o: .\Library\stm32f10x_rtc.h
+.\objects\lux.o: .\Library\stm32f10x_sdio.h
+.\objects\lux.o: .\Library\stm32f10x_spi.h
+.\objects\lux.o: .\Library\stm32f10x_tim.h
+.\objects\lux.o: .\Library\stm32f10x_usart.h
+.\objects\lux.o: .\Library\stm32f10x_wwdg.h
+.\objects\lux.o: .\Library\misc.h
+.\objects\lux.o: E:\Keli 5\ARM\ARMCC\Bin\..\include\math.h
